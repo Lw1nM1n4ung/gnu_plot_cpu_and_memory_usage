@@ -1,0 +1,1 @@
+usage : ./main.sh cpu memory
